@@ -93,7 +93,6 @@ _**Tech:** React • Flask • TypeScript • Python • Scikit-learn • Pandas
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:tashimathilini21@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tashima-jayasekara)
 
 ---
